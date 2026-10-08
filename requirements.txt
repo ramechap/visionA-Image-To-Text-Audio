@@ -1,0 +1,7 @@
+streamlit
+google-genai
+edge-tts
+opencv-python-headless
+numpy
+Pillow
+reportlab
